@@ -1,0 +1,11 @@
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\bin\Debug\AppsDevProjectVisualCsharp.exe.config
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\bin\Debug\AppsDevProjectVisualCsharp.exe
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\bin\Debug\AppsDevProjectVisualCsharp.pdb
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\obj\Debug\AppsDevProjectVisualCsharp.csprojResolveAssemblyReference.cache
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\obj\Debug\AppsDevProjectVisualCsharp.Homepage.resources
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\obj\Debug\AppsDevProjectVisualCsharp.Loginpage.resources
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\obj\Debug\AppsDevProjectVisualCsharp.Properties.Resources.resources
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\obj\Debug\AppsDevProjectVisualCsharp.csproj.GenerateResource.Cache
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\obj\Debug\AppsDevProjectVisualCsharp.exe
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\obj\Debug\AppsDevProjectVisualCsharp.pdb
+c:\users\oo133\documents\visual studio 2012\Projects\AppsDevProjectVisualCsharp\AppsDevProjectVisualCsharp\obj\Debug\AppsDevProjectVisualCsharp.Registrationpage.resources
